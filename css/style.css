@@ -65,6 +65,11 @@ img.float_right {
     margin-left: 20px;
     float: right;
 }
+img.float_left {
+    margin-bottom: 20px;
+    margin-right: 20px;
+    float: left;
+}
 .float_clear{
     clear: both;
 }
